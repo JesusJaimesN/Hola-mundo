@@ -1,4 +1,4 @@
-# Hola-mundo
+# Hola mundo
 Mi primer repositorio 
 
 Autor:JesusJ
